@@ -1,12 +1,12 @@
-A hpux.txt állomány tartalmát illessze be a HTML oldal törzs részébe.
-Állítsa be az oldalt magyar nyelvűre.
-Állítsa be, hogy a böngészőfülön a „HP-UX” felirat jelenjen meg.
-Állítson be a szöveg előtt egyes szintű fejezetcímet, „HP-UX” tartalommal.
-A bekezdést jelölje HTML elemmel, bekezdésnek.
-A „Támogatott platformok: és következő két sor legyen egyetlen bekezdés.
-A HP 9000 és HP Integral PC sorokat vesszővel tagolja.
-A „HP 9000” szövegrészt, jelölje meg rövidítésnek.
-A „HP Integral PC” szövegrészt jelölje meg kiemeltnek.
-A „Támogatott platformok:” bekezdést előtt, legyen egy kettes szintű fejezetcím
-A fejezetcím tartalma: „Támogatás”
-A HTML forráskódjában, megjegyzésbe, írja, a nevét és az aktuális dátumot.
+A hpux.txt állomány tartalmát illessze be a HTML oldal törzs részébe.<br/>
+Állítsa be az oldalt magyar nyelvűre.<br/>
+Állítsa be, hogy a böngészőfülön a „HP-UX” felirat jelenjen meg.<br/>
+Állítson be a szöveg előtt egyes szintű fejezetcímet, „HP-UX” tartalommal.<br/>
+A bekezdést jelölje HTML elemmel, bekezdésnek.<br/>
+A „Támogatott platformok: és következő két sor legyen egyetlen bekezdés.<br/>
+A HP 9000 és HP Integral PC sorokat vesszővel tagolja.<br/>
+A „HP 9000” szövegrészt, jelölje meg rövidítésnek.<br/>
+A „HP Integral PC” szövegrészt jelölje meg kiemeltnek.<br/>
+A „Támogatott platformok:” bekezdést előtt, legyen egy kettes szintű fejezetcím<br/>
+A fejezetcím tartalma: „Támogatás”<br/>
+A HTML forráskódjában, megjegyzésbe, írja, a nevét és az aktuális dátumot.<br/>
