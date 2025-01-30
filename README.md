@@ -6,6 +6,7 @@
 * Licenc: CC BY-SA 4.0
 * Web: https://szit.hu
 
+# Feladat 004
 
 1. A hpux.txt állomány tartalmát illessze be a HTML oldal törzs részébe.<br/>
 2. Állítsa be az oldalt magyar nyelvűre.<br/>
