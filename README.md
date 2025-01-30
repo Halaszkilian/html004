@@ -1,3 +1,12 @@
+# HTML004
+
+* Szerző: Sallai András
+* Copyright © 2020, Sallai András
+* Szerkesztve: 2020-2024
+* Licenc: CC BY-SA 4.0
+* Web: https://szit.hu
+
+
 A hpux.txt állomány tartalmát illessze be a HTML oldal törzs részébe.<br/>
 Állítsa be az oldalt magyar nyelvűre.<br/>
 Állítsa be, hogy a böngészőfülön a „HP-UX” felirat jelenjen meg.<br/>
