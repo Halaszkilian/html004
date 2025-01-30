@@ -7,7 +7,8 @@
 * Web: https://szit.hu
 
 # Feladat 004
-*Töltse le a repositoryt.
+
+* Töltse le a repositoryt.
 
 1. A hpux.txt állomány tartalmát illessze be a HTML oldal törzs részébe.<br/>
 2. Állítsa be az oldalt magyar nyelvűre.<br/>
